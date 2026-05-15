@@ -73,10 +73,6 @@ README.md
 - Add prime number checker
 - Save analysis results to file
 
-## Author
-
-Created by [Your Name]
-
 ## License
 
 This project is open-source and free to use.
